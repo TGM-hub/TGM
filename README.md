@@ -1,4 +1,4 @@
-#Hey, I'm Tanguy 👋
+Hey, I'm Tanguy 👋
 
 I'm a **Data Scientist** with an engineering mindset — I love building things and learning about everything!
 I tend to solve daily problems with data and code or deep dive into topics I find interesting using code.
@@ -50,6 +50,6 @@ I care about clean code, reproducible experiments, and making data genuinely use
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TGM&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TGM-hub&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TGM&layout=compact&hide_border=true&theme=default" height="150"/>
 </p>
