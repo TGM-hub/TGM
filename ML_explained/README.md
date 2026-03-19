@@ -1,4 +1,4 @@
-# ml-math-sheets
+# ML_explained
 
 A collection of Jupyter notebooks covering the mathematical foundations of Machine Learning and Statistics — written for engineers who use ML in practice and want to understand *why* the methods work, not just *that* they work.
 
