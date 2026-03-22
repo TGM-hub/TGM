@@ -1,0 +1,93 @@
+{
+  "PHYSICS & COSMOLOGY": {
+    "Quantum mechanics": ["wave-function collapse", "decoherence", "Bell inequalities", "quantum entanglement", "the measurement problem", "many-worlds interpretation"],
+    "Particle physics": ["Higgs boson", "Standard Model", "quarks", "gluons", "CP violation", "neutrino oscillations", "the hierarchy problem"],
+    "Nuclear physics": ["nuclear fusion (tokamak, inertial confinement)", "fission", "binding energy per nucleon", "radioactive decay chains", "neutron capture (r-process, s-process)"],
+    "Cosmology": ["dark matter", "dark energy", "CMB anisotropies", "cosmic inflation", "Big Bang nucleosynthesis", "black hole thermodynamics", "Hawking radiation"],
+    "Relativity": ["general relativity", "gravitational waves (LIGO)", "frame dragging", "equivalence principle", "geodesic deviation", "Penrose diagrams"],
+    "Astrophysics": ["neutron stars", "magnetars", "stellar nucleosynthesis", "core-collapse supernovae", "planetary formation", "accretion disks", "quasar jets"]
+  },
+
+  "MATHEMATICS": {
+    "Number theory": ["Riemann hypothesis", "prime number theorem", "modular arithmetic", "Fermat's last theorem", "elliptic curves", "the abc conjecture"],
+    "Topology": ["manifolds", "Poincaré conjecture", "knot theory", "homology and cohomology", "fiber bundles", "the hairy ball theorem"],
+    "Analysis": ["Fourier transforms", "complex analysis (residue theorem)", "Lebesgue integration", "chaos theory and strange attractors", "ergodic theory"],
+    "Algebra": ["Galois theory", "group symmetry and Noether's theorem", "Lie algebras", "representation theory", "category theory"],
+    "Logic & foundations": ["Gödel incompleteness theorems", "set theory paradoxes (ZFC)", "computability and Turing machines", "P vs NP", "reverse mathematics"],
+    "Applied mathematics": ["game theory (Nash equilibrium)", "dynamical systems", "information theory (Shannon entropy)", "optimal transport", "random matrix theory"]
+  },
+
+  "ENGINEERING & THERMODYNAMICS": {
+    "Classical thermodynamics": ["Carnot cycles and efficiency limits", "entropy and the arrow of time", "Maxwell's demon", "phase transitions and critical points", "the Clausius-Clapeyron relation"],
+    "Statistical mechanics": ["Boltzmann distribution", "partition functions", "Ising model and phase transitions", "fluctuation-dissipation theorem", "Jarzynski equality"],
+    "Materials science": ["superconductivity (BCS theory)", "semiconductors and band gaps", "graphene and 2D materials", "metamaterials", "fatigue mechanics and crack propagation"],
+    "Aerospace engineering": ["orbital mechanics (Hohmann transfers, Lagrange points)", "re-entry physics", "Tsiolkovsky rocket equation", "hypersonic aerodynamics"],
+    "Electrical engineering": ["Maxwell's equations in matter", "waveguides and resonant cavities", "transistor physics (MOSFET)", "signal processing and the Nyquist theorem"],
+    "Civil & structural engineering": ["prestressed concrete", "resonance failures (Tacoma Narrows)", "earthquake engineering and base isolation", "topology optimization"]
+  },
+
+  "MEDICINE & BIOLOGY": {
+    "Immunology": ["autoimmune diseases — lupus, multiple sclerosis, rheumatoid arthritis (mechanisms)", "T-cell receptor signaling", "cytokine storms", "immune checkpoints (PD-1/PD-L1)", "thymic selection"],
+    "Microbiology": ["bacteriophages and phage therapy", "CRISPR-Cas9 — discovery and mechanism", "antibiotic resistance (beta-lactamases, efflux pumps)", "prions and misfolding", "quorum sensing"],
+    "Neuroscience": ["neuroplasticity and Hebbian learning", "action potential generation (Hodgkin-Huxley)", "long-term potentiation", "dopamine circuits and reward prediction error", "sleep stages and memory consolidation"],
+    "Genetics & epigenetics": ["epigenetic inheritance (methylation, histones)", "transposons and genome evolution", "horizontal gene transfer in prokaryotes", "telomeres and cellular aging", "GWAS and polygenic scores"],
+    "Oncology": ["tumor microenvironment and immune evasion", "oncogenes and tumor suppressors (p53, Ras)", "immunotherapy mechanisms (CAR-T, checkpoint inhibitors)", "metastasis cascade", "synthetic lethality (BRCA/PARP)"],
+    "Evolutionary biology": ["evo-devo and Hox genes", "convergent evolution (examples and limits)", "punctuated equilibrium vs. gradualism", "sexual selection and honest signaling", "major evolutionary transitions"],
+    "Cell biology": ["mitochondrial origin — endosymbiosis theory", "sodium-potassium pump and membrane potential", "organelle trafficking (SNARE proteins)", "the ubiquitin-proteasome system", "autophagy"]
+  },
+
+  "CHEMISTRY": {
+    "Organic chemistry": ["chirality and thalidomide tragedy", "pericyclic reactions (Woodward-Hoffmann rules)", "aromaticity and Hückel's rule", "peptide bond formation and Ramachandran plots"],
+    "Physical chemistry": ["molecular orbital theory vs valence bond", "reaction kinetics and transition state theory", "heterogeneous catalysis (Sabatier principle)", "Born-Oppenheimer approximation"],
+    "Biochemistry": ["ATP synthesis via chemiosmosis (Mitchell's chemiosmotic hypothesis)", "enzyme allostery and cooperativity (hemoglobin)", "protein folding (Anfinsen's dogma, Levinthal's paradox)", "the citric acid cycle"],
+    "Electrochemistry": ["Nernst equation and redox potential", "lithium-ion battery mechanisms", "electrochemical corrosion", "fuel cell thermodynamics"],
+    "Astrochemistry": ["interstellar molecular clouds", "meteoritic amino acids (Murchison meteorite)", "origin of life chemistry (Miller-Urey, RNA world)", "polycyclic aromatic hydrocarbons in space"]
+  },
+
+  "PHILOSOPHY": {
+    "Ancient philosophy": ["Socratic method and aporia", "Platonic forms and the allegory of the cave", "Aristotelian logic and syllogism", "Stoicism — Epictetus' Enchiridion, Marcus Aurelius' Meditations, Seneca's Letters"],
+    "Modern philosophy": ["Descartes' cogito and mind-body dualism", "Hume's problem of induction and bundle theory of self", "Kant's categorical imperative and the synthetic a priori", "Spinoza's monism"],
+    "Contemporary philosophy": ["Popper's falsificationism and demarcation problem", "Kuhn's paradigm shifts and incommensurability", "Feyerabend's epistemological anarchism", "Quine's web of belief"],
+    "Ethics": ["utilitarianism — Bentham, Mill, and preference utilitarianism (Singer)", "Kantian deontology and perfect vs imperfect duties", "virtue ethics and phronesis (Aristotle, MacIntyre)", "contractarianism — Rawls' veil of ignorance"],
+    "Philosophy of mind": ["Turing test and the imitation game", "Searle's Chinese room argument", "functionalism and multiple realizability", "the hard problem of consciousness (Chalmers)", "eliminative materialism (Churchland)"],
+    "Political philosophy": ["Hobbes' Leviathan and the social contract", "Locke on property and the right of revolution", "Rousseau's general will", "Nietzsche's will to power and master-slave morality", "Hannah Arendt on totalitarianism"]
+  },
+
+  "HISTORY & CIVILIZATIONS": {
+    "Ancient history": ["the Bronze Age collapse (~1200 BCE) — causes and debates", "Roman engineering (aqueducts, concrete, roads)", "Han dynasty bureaucracy and the civil service exam", "the Library of Alexandria — myth vs reality"],
+    "Medieval history": ["Black Death societal impact — labor, church, and flagellants", "the Islamic Golden Age — Al-Kindi, Ibn Rushd, Al-Khwarizmi", "Byzantine resilience — Greek fire, themata system", "the Mongol Pax and knowledge transfer"],
+    "Early modern history": ["the Scientific Revolution as a social phenomenon", "the printing press and information revolution", "colonial knowledge transfer and botanical imperialism", "the Republic of Letters"],
+    "Modern history": ["the Second Industrial Revolution (electricity, chemicals, steel)", "WWI chemical warfare — chlorine, phosgene, mustard gas", "the Cold War science race — ICBM, Sputnik, Apollo", "the Green Revolution"],
+    "History of science": ["the calculus priority dispute (Newton vs Leibniz)", "the discovery of oxygen (Scheele, Priestley, Lavoisier)", "resistance to germ theory (Semmelweis, Koch, Pasteur)", "the Michelson-Morley experiment"]
+  },
+
+  "LINGUISTICS": {
+    "Language universals": ["Chomsky's universal grammar and poverty of the stimulus", "the Sapir-Whorf hypothesis — strong vs weak versions", "linguistic relativity experiments (color, space, number)", "language acquisition device debate"],
+    "Historical linguistics": ["Proto-Indo-European reconstruction methods", "Grimm's law and consonant shifts", "language death and documentation", "the comparative method and tree models vs wave models"],
+    "Phonology & phonetics": ["vocal tract acoustics and formant frequencies", "tonal languages and lexical tone", "phonological universals (Greenberg)", "prosody and speech rhythm"],
+    "Semiotics": ["Saussure's signifier/signified and arbitrariness", "Peirce's trichotomy (icon, index, symbol)", "the pragmatics of meaning — Grice's maxims", "speech act theory (Austin, Searle)"],
+    "Cognitive linguistics": ["conceptual metaphor theory (Lakoff & Johnson)", "construction grammar", "embodied cognition and language", "the lexical gap and untranslatable words"]
+  },
+
+  "GEOGRAPHY & EARTH SCIENCES": {
+    "Plate tectonics": ["subduction zones and volcanic arcs", "hotspot volcanism (Hawaii, Yellowstone)", "continental drift evidence (Wegener's rejected hypothesis)", "the Wilson cycle"],
+    "Oceanography": ["thermohaline circulation and the ocean conveyor belt", "ocean acidification mechanisms", "deep-sea hydrothermal vents and chemosynthesis", "El Niño-Southern Oscillation (ENSO)"],
+    "Climatology": ["Milankovitch cycles and ice ages", "the ITCZ and tropical circulation", "monsoon dynamics", "permafrost feedback loops and methane release", "tipping points in the climate system"],
+    "Geomorphology": ["karst landscapes and speleothem formation", "glacial erosion (U-shaped valleys, fjords)", "river delta formation and avulsion", "aeolian processes and dune dynamics"],
+    "Biogeography": ["island biogeography theory (MacArthur & Wilson)", "the Wallace Line — biogeographical boundary", "glacial refugia and speciation", "dispersal vs vicariance debates"]
+  },
+
+  "PALEONTOLOGY & EVOLUTIONARY HISTORY": {
+    "Mass extinctions": ["the Permian-Triassic extinction — causes and selectivity", "the K-Pg impact event and Chicxulub", "the Cambrian explosion — triggers and body plan diversification", "the Late Devonian extinction"],
+    "Human evolution": ["Homo naledi and non-linear human evolution", "Denisovan introgression and its modern legacy", "the cognitive revolution — language, art, symbolic thought", "the aquatic ape hypothesis and other controversies"],
+    "Fossil record": ["the Burgess Shale organisms and Cambrian ecology", "feathered dinosaurs and the bird transition", "transitional fossils (Tiktaalik, Archaeopteryx, whale evolution)", "exceptional preservation (Lagerstätten)"],
+    "Deep time": ["stromatolites and early oxygen", "Snowball Earth events — evidence and escape mechanism", "the Ediacaran biota — pre-Cambrian complex life", "the Great Oxygenation Event"]
+  },
+
+  "LITERATURE & HUMANITIES": {
+    "World literature": ["Dostoevsky — Crime and Punishment, the Grand Inquisitor (Brothers Karamazov)", "Borges — labyrinths, the library of Babel, and time", "Proust's madeleine and involuntary memory", "García Márquez and magical realism as political mode"],
+    "Mythology & comparative religion": ["Joseph Campbell's monomyth — hero's journey structure and critique", "Vedic cosmology and the concept of Brahman", "Norse cosmogony — Yggdrasil, Ragnarök, and cyclical time", "the Axis Mundi across cultures"],
+    "Narrative theory": ["unreliable narrators — types and epistemological stakes", "structuralism and Propp's morphology of the folktale", "magical realism as a mode (not a genre)", "the death of the author (Barthes) and reader-response theory"],
+    "Cultural & intellectual history": ["Gutenberg's revolution and the standardization of knowledge", "the Enlightenment salons and the public sphere (Habermas)", "the Frankfurt School — Adorno, Horkheimer, and the culture industry", "postcolonial theory (Said's Orientalism)"]
+  }
+}
