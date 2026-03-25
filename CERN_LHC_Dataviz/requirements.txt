@@ -8,10 +8,17 @@ pandas==3.0.1
 # Big Data
 pyspark==4.1.1
 
+# Machine Learning / Stats
+scikit-learn==1.5.2
+scipy==1.13.1
+
 # Visualisation
-plotly
+plotly==5.24.1
 matplotlib==3.10.8
 
-# Analyse
-scipy
-jupyter
+# Notebook / Dev
+jupyterlab==4.2.5
+ipykernel==6.29.5
+
+# Optional but recommended
+tqdm==4.67.1
