@@ -37,7 +37,8 @@ on pouvait ingérer ces données, les comprendre, et identifier quelque chose de
 ```
 CERN_LHC_Dataviz/
 ├── notebooks/
-│   ├── cernviz.ipynb        
+│   ├── cernviz.ipynb
+│   ├── cern_events.ipynb         
 ├── exports/
 │   ├── spectre_masse_invariante.png
 │   └── heatmap_detecteur.png
@@ -106,6 +107,15 @@ que le barrel central — conséquence directe de la géométrie du détecteur.
 |---------|-----|-----|
 | A | -0.264 | 0.723 à 1.288 |
 | B | +0.264 | 1.225 à 1.916 |
+
+### 3 — Tentative de recréation d'évènements synthétiques à partir des données
+
+Ce [Notebook](cern_events.ipynb) est une tentative de recréation de données synthétiques,
+avec la volonté de voir s'il était possible d'approximer le distribution des évènements
+en utilisant une méthode générative.
+Les algorythmes utilisés ici ont été la KDE, une version améliorée de la KDE, et finalement le GMM.
+Ces algorythmes ont tous montrés leur limite dans recréation de ces évènements.
+Ce qui laisse à penser qu'une méthode plus sophistiquée soit nécessaire pour obtenir des résultats plus convaincants.
 
 ---
 
