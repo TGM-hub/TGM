@@ -92,7 +92,7 @@ des muons plus énergétiques, donc mieux reconstruits par le détecteur.
 
 ### 2 — Géométrie du détecteur CMS
 
-![Heatmap détecteur](exports/heatmap_detecteur.png)
+![Heatmap détecteur](exports/heatmap_froid.png)
 
 La distribution eta/phi des 47.5M muons révèle la structure du détecteur lui-même.
 
