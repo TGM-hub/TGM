@@ -1,0 +1,17 @@
+# Core
+uproot==5.7.2
+awkward==2.9.0
+pyarrow==23.0.1
+numpy==2.4.3
+pandas==3.0.1
+
+# Big Data
+pyspark==4.1.1
+
+# Visualisation
+plotly
+matplotlib==3.10.8
+
+# Analyse
+scipy
+jupyter
