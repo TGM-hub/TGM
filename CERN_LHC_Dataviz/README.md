@@ -90,7 +90,7 @@ via `scipy.signal.find_peaks`
 Les écarts diminuent avec la masse — les particules lourdes produisent
 des muons plus énergétiques, donc mieux reconstruits par le détecteur.
 
-### 2 — Géométrie du détecteur CMS
+### 2 — Géométrie du détecteur
 
 ![Heatmap détecteur](exports/heatmap_froid.png)
 
