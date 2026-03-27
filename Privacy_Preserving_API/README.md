@@ -2,7 +2,7 @@
 
 > Compute statistics on sensitive data without the server ever seeing raw values.
 
-![dashboard](docs/dashboard.png)
+![dashboard](Streamlit_privacy.gif)
 
 ---
 
