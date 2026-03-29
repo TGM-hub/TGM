@@ -3,7 +3,7 @@
 An interactive gravitational simulator built in Python.
 Select real celestial objects, place them in a custom solar system, and watch the physics unfold.
 
-![demo gif — solar system overview](assets/simulation.gif)
+![demo gif — solar system overview](assets/Simulation.gif)
 
 ---
 
@@ -15,7 +15,7 @@ Select real celestial objects, place them in a custom solar system, and watch th
 - **N-body chaos** — add multiple objects from the catalogue; they all interact gravitationally with each other, not just with the star
 - **Realistic collisions** — bodies merge on contact using momentum conservation; the survivor inherits the combined mass, volume-averaged radius, and blended colour
 
-![demo gif — collision chain](assets/collision.gif)
+![demo gif — collision chain](assets/Collision.gif)
 
 ---
 
